@@ -1,0 +1,27 @@
+.nav2{
+    padding-right: auto;
+    
+}
+.logo{
+    display: flex;
+    justify-content: center;
+    gap: 6.5rem;
+}
+.lable{
+    display: flex;
+    padding-top: 6.5rem;
+    gap: 2rem;
+}
+.lableimg{
+    display:flex ;
+    gap: 5rem;
+    flex-direction: column;
+    padding-top:4rem;
+    
+}
+.contact{
+    padding-top: 6.5rem;
+}
+.div{display: flex;
+
+}
